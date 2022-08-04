@@ -1,0 +1,3 @@
+# add /etc/hosts
+127.0.0.1 example-one.com
+127.0.0.1 example-two.com
